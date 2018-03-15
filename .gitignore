@@ -1,0 +1,4 @@
+*.cache
+.vs/ScreepsTools/v15/.suo
+**/AutoFlatCopy/bin/
+**/AutoFlatCopy/obj/
