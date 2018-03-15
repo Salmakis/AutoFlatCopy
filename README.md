@@ -1,14 +1,14 @@
 # AutoFlatCopy
 
-AutoFlatCopy is a small Windows too wich resides in the Taskbar.
+AutoFlatCopy is a small Windows tool wich resides in the Taskbar.
 
 It will permamently synchronize files from a Source Folder to a Target Folder,
 but insteald of just Copying the files it will flatten the File names and put them all into the root directiory of the Destination Folder.
 
-The directories will be replaced with name prefixes separated by a dot.
+Flatten means the directories will be replaced with name prefixes separated by a dot.
 
-I Created this Tool to edit my Code for the game Screeps.com, but this game not allows the source code to contain any subfolders,
-but specially in bigger code projects i cant live without keep the stuff organized in folders.
+I Created this Tool to edit my Code for the game Screeps.com, this game not allows the source code to contain any subfolders,
+but specially in bigger code projects i prefer to keep the stuff organized in folders.
 
 original file path | new file path 
 --- | --- 
