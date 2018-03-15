@@ -14,7 +14,7 @@ original file path | new file path
 --- | --- 
 sourceDir/notherfile.txt | targetDir/notherfile.txt 
 sourceDir/folder/file1.txt | targetDir/folder.file1.txt 
-sourceDir/folder/file2.ping | targetDir/folder.file2.png 
+sourceDir/folder/file2.png | targetDir/folder.file2.png 
 sourceDir/folder/subfolderA/someFile.png | targetDir/folder.subfolderA.someFile.png 
 sourceDir/folder/subfolderB/someExtraFile.png | targetDir/folder.subfolderB.someExtraFile.png 
 
