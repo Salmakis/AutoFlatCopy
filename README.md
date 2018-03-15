@@ -26,8 +26,11 @@ The zip file just contains AutoFlatCopy.exe wich you can just copy to somewhere 
 No need to install or something.
 You may need .net Framework 4
 
-## Example video 
-![sync_opt.gif](https://s13.postimg.org/oaeu7w97r/sync_opt.gif)
+## Example image
+
+![autflatcopy.png](https://s13.postimg.org/d4kj6rbuf/autflatcopy.png)](https://postimg.org/image/5ol9kyo4z/)
+Left: source folder
+Right: destination folder
  
 ## Usage
 Just start AutoFlatCopy.exe it will create a new Icon in your Toolbar.
@@ -43,16 +46,19 @@ Now can you edit your files in the source directory and they will be (flat)copie
 Rightclick the icon once again and chose Stop Sync to stop this behavior.
 The icon turns somewhat red to indicate that its inactive.
 
- ## A known problem
+## Example video how it looks like
+![sync_opt.gif](https://s13.postimg.org/oaeu7w97r/sync_opt.gif)
+
+## A known problem
  
- Deleteing a folder with contents can actually confuse the tool, so if you want to delete a folder, try to delete all files first and then the folder.
+Deleteing a folder with contents can actually confuse the tool, so if you want to delete a folder, try to delete all files first and then the folder.
  
- ## Using with IDE´s
- Some programms, mostly IDE´s got a function to rename the old file, create a new one and then rename it
+## Using with IDE´s
+Some programms, mostly IDE´s got a function to rename the old file, create a new one and then rename it
  
- ### JetBrains IDE´s:
- (Ides like Webstorm, IntelliJ, PhpStorm etc.)
- If you keep getting a file like "file.js__JB__ or something then you need to disable the option "Save Write" in the settings.
+### JetBrains IDE´s:
+(IDE´s like Webstorm, IntelliJ, PhpStorm etc.)
+If you keep getting a file like "file.js__JB__ or something then you need to disable the option "Save Write" in the settings.
 
 ## Codestuff
 Its written quick & dirty in 1 day with C# by using WinForms.
