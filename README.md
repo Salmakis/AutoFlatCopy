@@ -28,8 +28,10 @@ You may need .net Framework 4
 
 ## Example image
 
-![autflatcopy.png](https://s13.postimg.org/d4kj6rbuf/autflatcopy.png)](https://postimg.org/image/5ol9kyo4z/)
+![autflatcopy.png](https://s13.postimg.org/d4kj6rbuf/autflatcopy.png)
+
 Left: source folder
+
 Right: destination folder
  
 ## Usage
