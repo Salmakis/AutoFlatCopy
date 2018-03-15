@@ -19,7 +19,7 @@ sourceDir/folder/subfolderA/someFile.png | targetDir/folder.subfolderA.someFile.
 sourceDir/folder/subfolderB/someExtraFile.png | targetDir/folder.subfolderB.someExtraFile.png 
 
 ## Example video 
-![sync_opt.gif](https://s13.postimg.org/oaeu7w97r/sync_opt.gif)](https://postimg.org/image/55bky4ujn/)
+![sync_opt.gif](https://s13.postimg.org/oaeu7w97r/sync_opt.gif)
  
 ## Usage
 Just start AutoFlatCopy.exe it will create a new Icon in your Toolbar.
