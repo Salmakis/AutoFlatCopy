@@ -22,7 +22,7 @@ sourceDir/folder/subfolderB/someExtraFile.png | targetDir/folder.subfolderB.some
 
 Just [Download Here](https://github.com/Salmakis/AutoFlatCopy/releases/latest)!
 
-The zip file just contains AutoFlatCopy.exe wich you can just copy to somewhere use.
+The zip file just contains AutoFlatCopy.exe wich you can just copy to somewhere and use.
 No need to install or something.
 You may need .net Framework 4
 
