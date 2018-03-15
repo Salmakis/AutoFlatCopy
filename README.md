@@ -18,6 +18,12 @@ sourceDir/folder/file2.png | targetDir/folder.file2.png
 sourceDir/folder/subfolderA/someFile.png | targetDir/folder.subfolderA.someFile.png 
 sourceDir/folder/subfolderB/someExtraFile.png | targetDir/folder.subfolderB.someExtraFile.png 
 
+## Install
+
+Just [Download](https://github.com/Salmakis/AutoFlatCopy/releases/latest) the zip file just contains a .exe wich you can just use.
+No need to install or something.
+You may need .net Framework 4
+
 ## Example video 
 ![sync_opt.gif](https://s13.postimg.org/oaeu7w97r/sync_opt.gif)
  
